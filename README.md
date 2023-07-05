@@ -23,3 +23,30 @@ As mentioned, this is a experimental project and is not ready for production. Pl
 - Admin Page
     - CRUD functions for Products and Suppliers, view Orders, view and delete Customer
     - Displaying Stock level using chartjs
+
+## How to work with git
+
+1. git checkout master
+2. git pull
+3. git checkout -b bug-ee-branch-name
+4. git add .
+5. git commit
+6. git checkout master
+7. git pull
+8. git checkout bug-ee-branch-name
+9. git merge master
+10. git git checkout master
+11. git merge bug-ee-branch-name
+12. git pull
+13. git push
+14. git branch -d bug-ee-branch-name
+
+
+
+
+
+
+
+
+
+
